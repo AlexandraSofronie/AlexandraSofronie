@@ -15,9 +15,9 @@
 
 ## 📊 GitHub Stats 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ALESA97&theme=synthwave&hide_border=true&ring=00D9FF&fire=A855F7)
-![Stats](https://github-readme-stats.vercel.app/api?username=ALESA97&show_icons=true&theme=synthwave&hide_border=true&title_color=00d9ff&icon_color=a855f7&text_color=ffffff&bg_color=0d1117)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALESA97&layout=compact&theme=synthwave&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexandraSofronie&theme=synthwave&hide_border=true&ring=00D9FF&fire=A855F7)
+![Stats](https://github-readme-stats.vercel.app/api?username=AlexandraSofronie&show_icons=true&theme=synthwave&hide_border=true&title_color=00d9ff&icon_color=a855f7&text_color=ffffff&bg_color=0d1117)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraSofronie&layout=compact&theme=synthwave&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)
 
 ## 💻 Lenguajes y Herramientas
 <span>
