@@ -33,11 +33,11 @@
 
 ## 🚀 Proyectos
 
-[![Porfolio](https://img.shields.io/badge/Porfolio-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![Repositorio](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALESA97/MiPorfolio)
+[![Porfolio](https://img.shields.io/badge/Porfolio-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![Repositorio](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandraSofronie/MiPorfolio)
 
 **Primer juego en Python**
 
-![Breakout](https://img.shields.io/badge/-Breakout-3776AB?style=for-the-badge&logo=python&logoColor=black)[![Repositorio](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALESA97/Python-Game)
+![Breakout](https://img.shields.io/badge/-Breakout-3776AB?style=for-the-badge&logo=python&logoColor=black)[![Repositorio](https://img.shields.io/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandraSofronie/Python-Game)
 
 ## 📫 Contacto
 
