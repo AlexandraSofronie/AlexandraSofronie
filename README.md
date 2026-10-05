@@ -1,7 +1,5 @@
 # Hi, I'm Alexandra! 👋
 
-### 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
-
 ![alt text](https://media.tenor.com/kzMUk2-LgL8AAAAj/welcome.gif)
 
 ## 🎯 Sobre mí
