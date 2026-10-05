@@ -1,6 +1,6 @@
 # Hi, I'm Alexandra! 👋
 
-### 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
+### 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
 
 ![alt text](https://media.tenor.com/kzMUk2-LgL8AAAAj/welcome.gif)
 
